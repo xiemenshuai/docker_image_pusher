@@ -5,7 +5,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 gitlab
 jenkins
-Jetty
-Tomcat
+jetty
+tomcat
 
 
