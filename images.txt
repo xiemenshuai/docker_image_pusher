@@ -13,10 +13,9 @@ centos
 ubuntu
 debian
 redis
-minio
 gitlab
 jenkins
 Jetty
 Tomcat
-NodeJs
-RabbitMQ
+
+
