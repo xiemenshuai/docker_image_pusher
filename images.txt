@@ -1,1 +1,1 @@
-rabbitmq:management
+rancher/rancher:v2.5.17
