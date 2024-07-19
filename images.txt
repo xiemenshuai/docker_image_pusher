@@ -1,1 +1,1 @@
-registry
+sigoden/dufs
