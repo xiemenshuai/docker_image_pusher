@@ -1,1 +1,2 @@
-alpine:3.14.10
+nacos/nacos-server:latest
+jasonrivers/nagios:latest
