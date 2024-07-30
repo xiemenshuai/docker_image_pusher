@@ -1,2 +1,1 @@
-nacos/nacos-server:latest
 jasonrivers/nagios:latest
