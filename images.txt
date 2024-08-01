@@ -1,8 +1,1 @@
-fuzzle/docker-nfs-server:latest
-atmoz/sftp
-fauria/vsftpd
-jpillora/dnsmasq
-coredns/coredns:latest
-stilleshan/zfile:4.1.2
-filegator/filegator
-cturra/ntp:latest
+erichough/nfs-serve
