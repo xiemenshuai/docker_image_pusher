@@ -1,1 +1,12 @@
-openresty/openresty:alpine
+dperson/samba
+minio/minio
+elimuzi/nfs-ganesha
+erichough/nfs-serve
+fuzzle/docker-nfs-server:latest
+atmoz/sftp
+fauria/vsftpd
+jpillora/dnsmasq
+coredns/coredns:latest
+stilleshan/zfile:4.1.2
+filegator/filegator
+cturra/ntp:latest
