@@ -1,1 +1,1 @@
-erichough/nfs-serve
+erichough/nfs-server
