@@ -1,7 +1,3 @@
-dperson/samba
-minio/minio
-elimuzi/nfs-ganesha
-erichough/nfs-serve
 fuzzle/docker-nfs-server:latest
 atmoz/sftp
 fauria/vsftpd
