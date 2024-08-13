@@ -1,2 +1,1 @@
-siomiz/softethervpn:4.39
-siomiz/softethervpn:4.43
+kylemanna/openvpn:2.4
