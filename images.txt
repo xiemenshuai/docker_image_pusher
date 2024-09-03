@@ -1,2 +1,1 @@
 pause:3.8
-registry.aliyuncs.com/google_containers/pause
